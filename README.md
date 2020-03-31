@@ -1,2 +1,2 @@
-# SHOPPING-MALL
+# ShoppingMall-RestApi
 simple shopping mall(jpa+vue.js)

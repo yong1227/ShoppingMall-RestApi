@@ -58,4 +58,6 @@ logging.level.org.hibernate=info
  
 ---
 
-#### ````이 프로젝트는 CODEPRESSO의 DEV-OPS 과정 중 실습한 프로젝트입니다.(https://blog.naver.com/code-presso)````
+#### ````이 프로젝트는 CODEPRESSO의 DEV-OPS 과정 중 실습한 프로젝트입니다.
+- (https://blog.naver.com/code-presso)
+````

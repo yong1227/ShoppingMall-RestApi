@@ -14,9 +14,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import javax.persistence.OneToOne;
 import javax.persistence.CascadeType;
-import javax.persistence.JoinColumn;
 import javax.persistence.FetchType;
 import javax.persistence.OneToMany;
 import javax.persistence.GenerationType;

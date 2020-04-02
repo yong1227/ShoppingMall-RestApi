@@ -15,7 +15,9 @@ public interface BasketRepository extends CrudRepository<Basket, Long>{
 	Basket findByUserIdAndProductId(Long userId, Long productId);
 
 	void deleteByUserIdAndProductId(Long userId, Long productId);
-	
+
+	void deleteByUserIdAndId(Long userId, Long basketId);
+
 	//삭제할 때  id로 지워라
 
 }
